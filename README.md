@@ -28,9 +28,9 @@ This project is an **Oracle APEX application** designed to simplify the **migrat
 ## 🔹 Screenshots  
 ![Upload Form](upload.png)
 ![Log in page](login.png)
-![Home page](homepage.png)
-![Preview migrated data](previewdata.png)
-![Some of the reports](report1.png)
+![Home page](home page.png)
+![Preview migrated data](preview data.png)
+![Some of the reports](report 1.png)
 
 
 ## 🔹 Repository Contents  

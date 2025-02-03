@@ -19,3 +19,4 @@ This project is an **Oracle APEX-based Data Migration Dashboard** designed to va
 2. The system will automatically validate the data.
 3. Once validated, data will be migrated into the **target Oracle tables**.
 4. Check the **dashboard** for migration statistics and possible errors.
+5. APEX CREDENTIALS: user/test123456

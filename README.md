@@ -26,11 +26,12 @@ This project is an **Oracle APEX application** designed to simplify the **migrat
 4. The **dashboard provides insights into migration status and errors**  
 
 ## 🔹 Screenshots  
-![Upload Form](upload.png)
-![Log in page](login.png)
-![Home page](home page.png)
-![Preview migrated data](preview data.png)
-![Some of the reports](report 1.png)
+![Login page](login.png)
+![Home page](homepage.png)
+![Upload](upload.png)
+![Preview migrated data](previewdata.png)
+![Preview errors](previewerrors.png)
+![Report](report.png)
 
 
 ## 🔹 Repository Contents  
